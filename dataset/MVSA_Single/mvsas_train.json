@@ -1,0 +1,49 @@
+[
+  {
+    "image": "twitter2015/dev/images/0.jpg",
+    "text": "RT @ FundsOverBuns : $T$ went from pedophile to messing with cougars all within a week",
+    "caption": {
+      "tone": "The image features high-key, bright lighting that minimizes shadows on the subject's face. The global tone is clean and polished, dominated by the ivory skin tone, dark black hair, and a textured black garment against a soft white and pastel background.",
+      "content": "The image shows a woman with black hair and a black dress, possibly at a red carpet event. She has a serious expression and is looking directly at the camera.\n\nDescription: A woman in a black dress with a serious expression is pictured at a red carpet event.",
+      "emotion": "The image implies composed confidence and poise. This is evidenced by her direct, steady eye contact with the camera and her slight, subtle smile. The bright, even lighting and professional grooming suggest an intention to present a curated, public-facing "celebrity" persona."
+    },
+    "label": "neutral",
+    "text_label": "neutral",
+    "image_label": "neutral"
+  },
+  {
+    "image": "twitter2015/dev/images/1.jpg",
+    "text": "$T$ , shellacked , and ready to be sent off to Cooperstown .",
+    "caption": {
+      "tone": "The scene is set in a dimly lit, industrial workshop environment. The tone is utilitarian. The dominant colors are the metallic bronze of the plaque, the tan of the cardboard beneath it, and the dark grays/blacks of the surrounding studio. The lighting is focused directly on the plaque, creating a reflective "wet" sheen.",
+      "content": "The image shows a table with a brown surface, on which there is a metal plate with the words \"Pedro, shellacked, and ready to be sent off to Cooperstown\" engraved in it. The plate has a shiny finish, and the words are clearly visible. The table appears to be made of wood, and there are no other objects visible in the image.\n\nThe image shows a table with a brown surface, on which there is a metal plate with the words \"Pedro, shellacked, and ready to be sent off to Cooperstown\" engraved in it. The plate has a shiny finish, and the words are clearly visible. The table appears to be made of wood, and there are no other objects visible in the image.",
+      "emotion": "The affective implication is one of reverence and craftsmanship. The detailed relief and celebratory text indicate a desire to honor a legacy. However, the raw workshop setting and the "wet" appearance of the finish suggest the anticipation of a finished product nearing completion."
+    },
+    "label": "neutral",
+    "text_label": "neutral",
+    "image_label": "neutral"
+  },
+  {
+    "image": "twitter2015/dev/images/2.jpg",
+    "text": "Pedro , shellacked , and ready to be sent off to $T$ .",
+    "caption": {
+      "tone": "The scene is set in a dimly lit, industrial workshop environment. The tone is utilitarian. The dominant colors are the metallic bronze of the plaque, the tan of the cardboard beneath it, and the dark grays/blacks of the surrounding studio. The lighting is focused directly on the plaque, creating a reflective "wet" sheen.",
+      "content": "The image shows a table with a brown surface, on which there is a metal plate with a design of a person's face. The plate has the words \"Pedro, shellacked and ready to be sent off to Cooperstown\" engraved on it. The overall impression of the image is one of craftsmanship and attention to detail.",
+      "emotion": "The affective implication is one of reverence and craftsmanship. The detailed relief and celebratory text indicate a desire to honor a legacy. However, the raw workshop setting and the "wet" appearance of the finish suggest the anticipation of a finished product nearing completion."
+    },
+    "label": "neutral",
+    "text_label": "neutral",
+    "image_label": "neutral"
+  },
+  {
+    "image": "twitter2015/dev/images/3.jpg",
+    "text": "RT @ Butters 13 : Met $T$ in brickell today , thanks for the pic @ thejoejohnson7",
+    "caption": {
+      "tone": "The image has a warm, bright tone characteristic of natural outdoor sunlight. The dominant colors are a vibrant orange from the shirt on the left and a muted charcoal gray from the shirt on the right, contrasted against a bright blue sky.",
+      "content": "The image shows a man in an orange t-shirt and black cap standing next to a basketball hoop on a city street. He is smiling and holding the ball in his hand. The background is filled with buildings and trees.\n\nThe man in the image is likely a basketball player, and the location is likely a city street. The image is well-lit and shows good detail, with the man's face and clothing clearly visible. The colors are bright and vivid, with the orange t-shirt and black cap standing out against the green trees and blue sky in the background. The overall mood of the image is positive and energetic, with the man's smile and the presence of a basketball hoop suggesting a love for the sport.",
+      "emotion": "The image conveys camaraderie and excitement. The broad smile of the man in orange and the relaxed posture of the athlete suggest a friendly fan encounter. The "peace" sign or gesture and the physical proximity imply an atmosphere of mutual friendliness and casual accessibility."
+    },
+    "label": "positive",
+    "text_label": "positive",
+    "image_label": "positive"
+  },
