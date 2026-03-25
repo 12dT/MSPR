@@ -27,6 +27,8 @@ To support this progressive reasoning process, MSPR introduces:
   <img src="figures/framework.pdf" width="85%">
 </p>
 
+MSPR models multimodal affect understanding as a progressive process from **Tone** to **Content** and finally **Emotion**, with stage-wise caption supervision, prompt interaction, and prototype-guided alignment.
+
 The source code will be released publicly upon acceptance of the corresponding paper. This repository currently serves as a placeholder for reference and linkage purposes.
 
 Thank you for your interest.
